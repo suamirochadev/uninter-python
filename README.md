@@ -20,7 +20,6 @@ Elabore um programa em Python que:
 5.	Deve-se utilizar estruturas if, elif e else (EXIGÊNCIA 1 de 1);
 6.	Colocar um exemplo de SAIDA DE CONSOLE de compra de mais de 10 und
 
-#############################################################################################################################
 #Segunda Questão
 >
 Enunciado: Você e sua equipe de programadores foram contratados para desenvolver um app de vendas para uma pizzaria. Você ficou com a parte de desenvolver a interface do cliente para retirada do produto.
@@ -47,7 +46,6 @@ o	(DICA: utilizar o break dentro if que verifica a opção sair)
 8.	Colocar um exemplo de SAIDA DE CONSOLE com duas pizzas
 9.	Colocar um exemplo de SAIDA DE CONSOLE com erro ao digitar código
 
-#############################################################################################################################
 #Terceira Questão
 >
 Enunciado: Imagina-se que você e sua equipe foram contratados por um restaurante que serve feijoada para desenvolver a solução de software. Você ficou encarregado da parte de retirar pedido por parte do cliente.
@@ -99,7 +97,6 @@ o	Deve-se retornar o multiplicador conforme o Quadro 3
 8.	Colocar um exemplo de SAIDA DE CONSOLE um pedido com volume, opção e 2 acompanhamentos válidos
 9.	Colocar um exemplo de SAIDA DE CONSOLE com o tratamento de erro quando digitado um valor não numérico é digitado e uma opção não permitida no menu opção de feijoada
 
-#############################################################################################################################
 #Quarta Questão
 >
 Enunciado: Imagina-se que você está desenvolvendo um software de controle de estoque para uma mercearia. Este software deve ter o seguinte menu e opções:
